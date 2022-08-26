@@ -1,16 +1,17 @@
-## Welcome to WLin's Page 
+# William Lin's First CS193 Homework
 
 
-### CS 2026 @ Purdue University
+## CS 2026 @ Purdue University
 
+### Favorite thing about CS193
+- learning more about terminal
+- learning from expereinced and nice upperclassmen
+- diving into the real world of coding with github 
+- Thanks to all of the amazing TA's
 
-
-# Header 1
-## Header 2
-### The journey to becoming a CS(poke) master
 
 ```
-- CS180
+- CS193
 
 ```
 
