@@ -5,7 +5,7 @@
 
 ### Favorite thing about CS193
 - learning more about terminal
-- learning from expereinced and nice upperclassmen
+- learning from experienced and nice upperclassmen
 - diving into the real world of coding with github 
 - Thanks to all of the amazing TA's
 
